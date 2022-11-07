@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The objective of this lab was to use the process of penetration testing to gather information, detect vulnerabilities, and exploit vulnerabilities in a Windows 7 system. This lab consisted of 6 phases that utilized many tools such as nmap, Metasploit, and open-source vulnerability data to achieve the objectives of this lab. The walkthrough for this lab is attached. It includes a list of steps and procedures :)
+This lab is a Penetration Testing lab conducted in my Operating Systems Security course. The objective of this lab was to use the process of penetration testing to gather information, detect vulnerabilities, and exploit vulnerabilities in a Windows 7 system. This lab consisted of 6 phases that utilized many tools such as nmap, Metasploit, and open-source vulnerability data to achieve the objectives of this lab. The walkthrough for this lab is attached. It includes a list of steps and procedures that were followed to complete the objective of the lab.
 <br />
 
 
